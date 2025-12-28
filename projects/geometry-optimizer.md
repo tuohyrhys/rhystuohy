@@ -67,4 +67,4 @@ I used basic checks such as:
 
 ## Links
 - Main portfolio: https://github.com/tuohyrhys/rhystuohy
-- (Add repo link will be inserted here when code is collected and organized)
+- (Repo link will be inserted here when code is collected and organized)
