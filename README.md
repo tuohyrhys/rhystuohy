@@ -20,9 +20,9 @@ I’m looking for junior/intern roles (especially over summers and during my PEY
   - [Geometry Optimizer (Strength-to-Weight)](projects/geometry-optimizer.md)
   - [Research Writing + Evaluation](projects/research.md)
 - **Resume**
-  - [Resume PDF](resume/RhysTuohy_Resume.pdf) *(update filename if different)*
+  - [Resume PDF](resume/RhysTuohyCV.pdf)
 
 ## Contact
 - Email: rhys.tuohy@mail.utoronto.ca
-- LinkedIn: *(add link)*
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/rhys-tuohy/)
 - Location: Toronto / Victoria / Vancouver (Canada)
