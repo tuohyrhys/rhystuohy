@@ -4,6 +4,7 @@ Project pages:
 - [Rocketry Systems](rocketry.md)
 - [Vehicle Controls + Dynamics](vehicle-controls.md)
 - [CAD + Manufacturing / Additive](cad-manufacturing.md)
+- [Geometry Optimizer (Strength-to-Weight)](projects/geometry-optimizer.md)
 - [Research Writing + Evaluation](research.md)
 
 These pages are living documents and will improve over time with photos, diagrams, and clean repositories.
