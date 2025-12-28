@@ -20,7 +20,7 @@ I’m looking for junior/intern roles (especially over summers and during my PEY
   - [Geometry Optimizer (Strength-to-Weight)](projects/geometry-optimizer.md)
   - [Research Writing + Evaluation](projects/research.md)
 - **Resume**
-  - [Resume PDF](resume/RhysTuohyCV.pdf)
+  - [Resume PDF](RhysTuohyCV.pdf)
 
 ## Contact
 - Email: rhys.tuohy@mail.utoronto.ca
