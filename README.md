@@ -1,28 +1,21 @@
 # Rhys Tuohy — Engineering Portfolio
 
-Hi! I’m Rhys Tuohy — an Engineering Science student at the University of Toronto with a 3.7 SGPA & CGPA. I build engineering systems that mix hardware + software: rocketry guidance/control concepts, vehicle control ideas, CAD/manufacturing work, and hands-on projects focused on real, physical outcomes.
+**Site:** https://tuohyrhys.github.io/rhystuohy/  
+**GitHub:** https://github.com/tuohyrhys  
+**LinkedIn:** <link>  
+**Email:** <email>
 
-This repo is my living portfolio. It’s not “perfect” yet — I’m actively adding documentation, photos, and code as I clean things up and make them publishable.
+Engineering Science (UofT). Aerospace systems • controls/simulation • CAD/DFM/DFAM • evaluation research.
 
-## What I’m aiming for
-I’m looking for junior/intern roles (especially over summers and during my PEY/Co-op, but I am open to part-time work over duration of studying at UofT) in:
-- aerospace / space systems
-- controls & mechatronics
-- mechanical design / test engineering / systems engineering
-- vehicle and robotics engineering
-- applied research with real hardware
+---
 
-## Quick links
-- **Projects**
-  - [Rocketry Systems](projects/rocketry.md)
-  - [Vehicle Controls + Dynamics](projects/vehicle-controls.md)
-  - [CAD + Manufacturing / Additive](projects/cad-manufacturing.md)
-  - [Geometry Optimizer (Strength-to-Weight)](projects/geometry-optimizer.md)
-  - [Research Writing + Evaluation](projects/research.md)
-- **Resume**
-  - [Resume PDF](RhysTuohyCV.pdf)
+## Index
+- **Projects:** [projects/README.md](projects/README.md)
+- **Experience:** [EXPERIENCE.md](EXPERIENCE.md)
+- **Research:** [projects/research-writing-evaluation.md](projects/research-writing-evaluation.md)
+- **Leadership:** [LEADERSHIP.md](LEADERSHIP.md)
+- **Awards/Certs:** [AWARDS_CERTS.md](AWARDS_CERTS.md)
+- **Master Resume:** [MASTER_RESUME.md](MASTER_RESUME.md)
+- **Resume PDF:** [assets/files/<resume>.pdf](assets/files/<resume>.pdf)
 
-## Contact
-- Email: rhys.tuohy@mail.utoronto.ca
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/rhys-tuohy/)
-- Location: Toronto / Victoria / Vancouver (Canada)
+**Artifacts:** CAD • plots • photos • reports • code
