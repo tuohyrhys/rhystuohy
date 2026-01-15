@@ -43,5 +43,5 @@ I build simulation-to-hardware systems and iterate based on tests and logged dat
 
 ## Resume + contact
 - Resume PDF: `assets/files/<resume>.pdf`
-- LinkedIn: [<link>](https://www.linkedin.com/in/rhys-tuohy/)
+- LinkedIn: https://www.linkedin.com/in/rhys-tuohy/
 - Email: rhys.tuohy@mail.utoronto.ca
