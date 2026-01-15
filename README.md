@@ -1,6 +1,6 @@
 # Rhys Tuohy — Engineering Portfolio
 
-Hi! I’m Rhys Tuohy — an incoming Engineering Science student at the University of Toronto. I build engineering systems that mix hardware + software: rocketry guidance/control concepts, vehicle control ideas, CAD/manufacturing work, and hands-on projects focused on real, physical outcomes.
+Hi! I’m Rhys Tuohy — an Engineering Science student at the University of Toronto with a 3.7 SGPA & CGPA. I build engineering systems that mix hardware + software: rocketry guidance/control concepts, vehicle control ideas, CAD/manufacturing work, and hands-on projects focused on real, physical outcomes.
 
 This repo is my living portfolio. It’s not “perfect” yet — I’m actively adding documentation, photos, and code as I clean things up and make them publishable.
 
