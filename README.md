@@ -2,10 +2,10 @@
 
 **Site:** https://tuohyrhys.github.io/rhystuohy/  
 **GitHub:** https://github.com/tuohyrhys  
-**LinkedIn:** <link>  
-**Email:** <email>
+**LinkedIn:** https://www.linkedin.com/in/rhys-tuohy/
+**Email:** rhys.tuohy@mail.utoronto.ca
 
-Engineering Science (UofT). Aerospace systems • controls/simulation • CAD/DFM/DFAM • evaluation research.
+Engineering Science (University of Toronto). Aerospace systems • controls/simulation • CAD/DFM/DFAM • evaluation research.
 
 ---
 
