@@ -5,7 +5,7 @@
 **LinkedIn:** https://www.linkedin.com/in/rhys-tuohy/
 **Email:** rhys.tuohy@mail.utoronto.ca
 
-Engineering Science (University of Toronto). Aerospace systems • controls/simulation • CAD/DFM/DFAM • evaluation research.
+Engineering Science (University of Toronto). Aerospace systems • CAD/DFM/DFAM • simulation • controls • evaluation research.
 
 ---
 
