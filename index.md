@@ -26,7 +26,7 @@ I build simulation-to-hardware systems and iterate based on tests and logged dat
 ---
 
 ### CAD + Manufacturing / Additive (Morin3D + contract design)
-**Tolerance-driven interfaces (±0.10–0.25 mm), DFAM tradeoffs, iteration workflows.**  
+**Tolerance-driven interfaces (±0.05–0.25 mm), DFAM tradeoffs, iteration workflows.**  
 → [CAD + Manufacturing](projects/cad-manufacturing.md)
 
 > _Add a hero image here:_ `assets/img/cad/hero/cad-hero.jpg`
@@ -43,5 +43,5 @@ I build simulation-to-hardware systems and iterate based on tests and logged dat
 
 ## Resume + contact
 - Resume PDF: `assets/files/<resume>.pdf`
-- LinkedIn: <link>
+- [<LinkedIn>](https://www.linkedin.com/in/rhys-tuohy/)
 - Email: <email>
