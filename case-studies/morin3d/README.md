@@ -1,5 +1,7 @@
 # Morin 3D (Island Additive Manufacturing) | Design Engineering
 
+Status: content complete. Figures are listed with placeholders while permissions are being finalized.
+
 **Disclosure:** I am currently in the process of obtaining permission to publicly share additional Morin 3D work product.  
 Due to confidentiality obligations, I may not be able to share work product or client specific artifacts outside the organization.  
 If you would like to discuss the details of my role further, feel free to contact me!
