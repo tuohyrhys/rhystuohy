@@ -107,11 +107,3 @@ Operational responsibility and systematizing information so it remains usable af
 
 **Tools**
 - Excel, Outlook, Word, scanning/labeling software
-
----
-
-## Related links
-- Projects: `projects/README.md`
-- Leadership & outreach: `LEADERSHIP.md`
-- Awards & certifications: `AWARDS_CERTS.md`
-- Master resume (full record): `MASTER_RESUME.md`
