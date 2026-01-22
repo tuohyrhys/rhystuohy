@@ -1,8 +1,3 @@
----
-layout: default
-title: About
----
-
 # About
 
 I’m Rhys. I like engineering work where a model turns into hardware, simulation, and research; the hardware produces data; and the data makes the next design decision a well-defined challenge!
@@ -26,9 +21,3 @@ I care about being a whole person too, not just a list of projects! Outside scho
 - **Mentorship + community** (teaching, running workshops, helping people expand curricular knowledge and apply it to community-based projects)
 - **Photography** (daily life, milestones, scenery — keeping and sharing moments)
 - **Curiosity rabbit holes** (astronomy/astronautics history, geography, the mesozoic era)
-
-## Links
-- Projects: `projects/README.md`
-- Experience: `EXPERIENCE.md`
-- Leadership: `LEADERSHIP.md`
-- Master resume: `MASTER_RESUME.md`
