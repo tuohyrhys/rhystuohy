@@ -62,8 +62,6 @@ GNC work is easy to make look impressive and easy to make non reproducible. The 
 - Produced fin deflection schedules and a transfer path for implementing them on constrained hardware.
 - Delivered a traceable tuning log that links iteration decisions to metric changes.
 - Established a hardware validation plan with measurable acceptance targets.
-
-Optional metric, include only if accurate:
 - Mean closest approach error: **5.7 m** across **10** randomized targets at **50 to 200 m**.
 
 ---
@@ -140,4 +138,4 @@ If you would like to discuss the workflow, scoring metrics, or hardware constrai
 
 ## Credits
 Role: Guidance, Navigation, and Control  
-Dates: [add start date] to Present
+Dates: 2024 to Present
