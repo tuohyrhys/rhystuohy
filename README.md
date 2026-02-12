@@ -1,6 +1,6 @@
 # Rhys Tuohy | Engineering Science ’29 (UofT) | Design, Modeling, Evidence
 
-**Positioning:** I am an engineer, designer, researcher, and scholar looking to contribute my mature skill set in engineering to meaningful projects in the industry, in the lab, and in student groups. I am most interested in aerospace and energy areas of engineering and research pertaining to advanced fluid dynamics, particle physics, structures and surfaces design, and much more. I may be a first year, but the proven rigour of my engineering and research practices in this portfolio is sure to tell a different story. Thank you for taking the first step in reading this. Have a look below, I hope you enjoy!
+**Positioning:** I am an engineer, designer, researcher, and scholar looking to contribute my mature skill set in engineering to meaningful projects in the industry, in the lab, and in student groups. I am most interested in aerospace and energy areas of engineering and research pertaining to advanced fluid dynamics, particle physics, structures and surfaces design, and much more. I may be a first year, but I hope the proven rigour of my engineering and research practices in this portfolio tells a different story. Thank you for taking the first step in reading this. Have a look below, I hope you enjoy!
 
 **Seeking:** Summer 2026 engineering internships (mechanical design, systems modeling, data and reporting)
 
