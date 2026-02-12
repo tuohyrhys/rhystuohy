@@ -1,6 +1,6 @@
 # Rhys Tuohy | Engineering Science ’29 (UofT) | Design, Modeling, Evidence
 
-**Positioning:** I turn ambiguous problems into decision ready designs with reviewable evidence. I care about interfaces, tolerances, integration, and verification notes.
+**Positioning:** I am an engineer, designer, researcher, and scholar looking to contribute my mature skill set in engineering to meaningful projects in the industry, in the lab, and in student groups. I am most interested in aerospace and energy areas of engineering and research pertaining to advanced fluid dynamics, particle physics, structures and surfaces design, and much more. I may be a first year, but the proven rigour of my engineering and research practices in this portfolio is sure to tell a different story. Thank you for taking the first step in reading this. Have a look below, I hope you enjoy!
 
 **Seeking:** Summer 2026 engineering internships (mechanical design, systems modeling, data and reporting)
 
@@ -30,8 +30,7 @@ If you only have 90 seconds, open **Morin 3D** then **Guided GNC**.
 
 **Open:** [case study page](case-studies/morin3d/README.md) | [brief](case-studies/morin3d/brief.pdf)
 
-> Optional credibility line, only keep if it is 100 percent accurate:
-> Morin 3D delivers parts for external customers including government and industry programs. Details are summarized in the case study with any sensitive info removed.
+> Morin 3D delivers parts for external customers including Bird Construction, the Royal Canadian Navy, and more. Details are summarized in the case study with any sensitive info removed.
 
 ---
 
